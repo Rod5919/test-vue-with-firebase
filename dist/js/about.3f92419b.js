@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkfirebase_host_test"]=self["webpackChunkfirebase_host_test"]||[]).push([[443],{7381:function(t,e,s){s.r(e),s.d(e,{default:function(){return h}});var n=s(3396);const a={class:"about"},r=(0,n._)("h1",null,"This is an about page",-1),u=[r];function i(t,e){return(0,n.wg)(),(0,n.iD)("div",a,u)}var c=s(89);const o={},f=(0,c.Z)(o,[["render",i]]);var h=f}}]);
+//# sourceMappingURL=about.3f92419b.js.map
